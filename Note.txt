@@ -1,0 +1,3 @@
+Bài toán : Hê thống logging(ghi log) và chúng ta muốn đảm bảo rằng chỉ có một instance
+duy nhất của lớp Logger tồn tại trong suốt vòng đời của ứng dụng để quản lý việc ghi log
+
